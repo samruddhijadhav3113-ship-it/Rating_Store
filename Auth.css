@@ -1,0 +1,17 @@
+/* common button style */
+.auth-box button {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  margin-top: 12px;
+  background-color: #008CBA; /* same as login */
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.auth-box button:hover {
+  background-color: #006e98;
+}
